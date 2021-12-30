@@ -1,11 +1,14 @@
+package testcase.markets;
+
 import io.restassured.RestAssured;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import testcase.BaseTest;
 
-public class TestTrades extends BaseTest{
+public class TestTrades extends BaseTest {
     @Test
     public void testTrades(){
         RequestSpecification httpRequest = RestAssured.given();

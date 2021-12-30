@@ -1,13 +1,18 @@
+package testcase.markets;
+
 import io.restassured.RestAssured;
+import io.restassured.http.Header;
+import io.restassured.http.Headers;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import testcase.BaseTest;
 
-public class TestSingleMarket extends BaseTest{
+public class TestMarketsHeader extends BaseTest {
     @Test
-    public void testBtcUsdPrice(){
+    public void testMarketHeader(){
         RequestSpecification httpRequest = RestAssured.given();
         Response res= httpRequest.request(Method.GET,"markets/btc/usd");
 
@@ -17,17 +22,22 @@ public class TestSingleMarket extends BaseTest{
         String responseBody = res.getBody().asString();
         System.out.println(responseBody);
 
-        //status code validation
-        int statusCode = res.getStatusCode();
-        Assert.assertEquals(statusCode,200,"Status Code not match");
-
-        //status line validation
-        String statusLine = res.getStatusLine();
-        Assert.assertEquals(statusLine, "HTTP/1.1 200 OK","Status line not match");
-
         //Header validation
         Assert.assertEquals(contentType,"application/json","Header Content Type not match");
         Assert.assertEquals(contentEncoding,"gzip","Header Content Encoding not match");
+
+    }
+
+    @Test
+    public void testMarketAllHeaders(){
+        RequestSpecification httpRequest = RestAssured.given();
+        Response res= httpRequest.request(Method.GET,"markets/btc/usd");
+
+        Headers allheaders = res.headers(); //capture all headers
+
+        for(Header header : allheaders){
+            System.out.println(header.getName() + " : " + header.getValue());
+        }
 
     }
 }

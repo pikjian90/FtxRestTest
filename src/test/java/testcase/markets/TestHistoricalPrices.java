@@ -1,3 +1,5 @@
+package testcase.markets;
+
 import io.restassured.RestAssured;
 import io.restassured.http.Method;
 import io.restassured.path.json.JsonPath;
@@ -5,12 +7,11 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import testcase.BaseTest;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map;
 
-public class TestHistoricalPrices extends BaseTest{
+public class TestHistoricalPrices extends BaseTest {
     @Test
     public void testHistoricalPrices(){
         RequestSpecification httpRequest = RestAssured.given();
@@ -28,7 +29,7 @@ public class TestHistoricalPrices extends BaseTest{
             String[] sSplit = s[i].split("=");
             hm.put(sSplit[0],sSplit[1]);
         }
-//
+
 //        for (Map.Entry<String, String> set : hm.entrySet()) {
 //            System.out.println(set.getKey() + " = " + set.getValue());
 //        }
