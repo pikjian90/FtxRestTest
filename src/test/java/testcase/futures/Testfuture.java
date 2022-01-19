@@ -5,7 +5,6 @@ import io.restassured.RestAssured;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import org.json.simple.JSONObject;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -28,23 +27,19 @@ public class Testfuture extends BaseTest{
                 data[i-1][j] = XLUtils.getCellData(path,"Sheet1",i,j);
             }
         }
-        System.out.println(data);
         return data;
-//        Object[] data = {"BTC-PERP","ETH-PERP"};
-//        return data;
     }
 
     @Test(dataProvider = "testfuturedata")
     public void testFuture(String name,String underlying, String description){
         RequestSpecification httpRequest = RestAssured.given();
-
         Response res= httpRequest.request(Method.GET, "/futures/" + name);
-        String responseBody = res.getBody().asString();
-        System.out.println(responseBody);
-        SoftAssert softAssert = new SoftAssert();
+        convertResponseResultToMap(res);
 
-        softAssert.assertTrue(responseBody.contains(underlying),underlying + "is not contained in response");
-        softAssert.assertTrue(responseBody.contains(description),description + "is not contained in response");
+        SoftAssert softAssert = new SoftAssert();
+        softAssert.assertEquals(hm.get("underlying"),underlying,underlying + "is not matched");
+        softAssert.assertEquals(hm.get("description"),description,description + "is not matched");
+        softAssert.assertAll();
     }
 
 
