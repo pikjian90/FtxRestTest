@@ -1,0 +1,181 @@
+INFO	2022-01-20 16:47:00,439	0	ftxRestTest	[main]	this is setup message
+INFO	2022-01-20 16:47:02,228	1789	ftxRestTest	[main]	Running test [testFuture] with parameters : BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 16:47:04,784	4345	ftxRestTest	[main]	Running test [testFuture] with parameters : ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 16:47:05,107	4668	ftxRestTest	[main]	Running test [testFuture] with parameters : ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 16:47:05,409	4970	ftxRestTest	[main]	Running test [testFuture] with parameters : FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 16:47:05,788	5349	ftxRestTest	[main]	Running test [testFuture] with parameters : DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 16:47:06,133	5694	ftxRestTest	[main]	Running test [testFuture] with parameters : DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 16:47:06,418	5979	ftxRestTest	[main]	Running test [testFuture] with parameters : SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 16:47:06,669	6230	ftxRestTest	[main]	Running test [testFuture] with parameters : LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 16:47:06,931	6492	ftxRestTest	[main]	Running test [testFuture] with parameters : BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 16:47:07,237	6798	ftxRestTest	[main]	Running test [testFuture] with parameters : SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:27:42,600	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:27:42,600	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:27:45,744	3144	ftxRestTest	[main]	Test : [checkContentEncoding]
+INFO	2022-01-20 17:27:45,773	3173	ftxRestTest	[main]	Test : [checkContentLength]
+INFO	2022-01-20 17:27:45,775	3175	ftxRestTest	[main]	Test : [checkContentType]
+INFO	2022-01-20 17:27:45,778	3178	ftxRestTest	[main]	Test : [checkResponseBody]
+INFO	2022-01-20 17:27:45,778	3178	ftxRestTest	[main]	Test : [checkResponseTime]
+INFO	2022-01-20 17:27:45,779	3179	ftxRestTest	[main]	Test : [checkServerType]
+INFO	2022-01-20 17:27:45,783	3183	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:27:45,784	3184	ftxRestTest	[main]	Test : [checkStatusLine]
+INFO	2022-01-20 17:27:47,594	4994	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:27:50,373	7773	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:27:50,729	8129	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:27:51,012	8412	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:27:51,350	8750	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:27:51,624	9024	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:27:51,918	9318	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:27:52,186	9586	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:27:52,460	9860	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:27:52,703	10103	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:29:46,582	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:29:46,583	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:29:52,042	5460	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:29:54,657	8075	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:29:55,050	8468	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:29:55,397	8815	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:29:55,783	9201	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:29:56,034	9452	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:29:56,302	9720	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:29:56,612	10030	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:29:56,877	10295	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:29:57,173	10591	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:30:39,096	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:30:39,096	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:30:46,384	7288	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:30:48,951	9855	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:30:49,301	10205	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:30:49,577	10481	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:30:49,885	10789	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:30:50,163	11067	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:30:50,420	11324	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:30:50,695	11599	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:30:51,043	11947	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:30:51,270	12174	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:31:28,494	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:31:28,498	4	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:31:35,352	6858	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:31:37,814	9320	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:31:38,135	9641	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:31:38,438	9944	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:31:38,715	10221	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:31:39,021	10527	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:31:39,305	10811	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:31:39,568	11074	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:31:39,976	11482	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:31:40,278	11784	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:32:19,932	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:32:19,932	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:32:26,769	6837	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:32:29,378	9446	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:32:29,727	9795	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:32:30,079	10147	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:32:30,401	10469	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:32:30,706	10774	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:32:31,013	11081	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:32:31,380	11448	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:32:31,640	11708	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:32:31,913	11981	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:32:33,253	13321	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,270	13338	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,271	13339	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,273	13341	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,274	13342	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,275	13343	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,277	13345	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,278	13346	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,283	13351	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:32:33,286	13354	ftxRestTest	[main]	Test : [checkStatusCode]
+INFO	2022-01-20 17:38:05,217	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:38:05,217	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:38:09,759	4542	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:38:12,251	7034	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:38:12,593	7376	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:38:13,076	7859	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:38:13,484	8267	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:38:13,773	8556	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:38:14,028	8811	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:38:14,326	9109	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:38:14,612	9395	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:38:14,861	9644	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:39:33,610	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:39:33,610	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:39:37,172	3562	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:39:39,679	6069	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:39,694	6084	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:39:40,062	6452	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:40,063	6453	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:39:40,385	6775	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:40,390	6780	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:39:40,667	7057	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:40,669	7059	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:39:40,957	7347	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:40,958	7348	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:39:41,263	7653	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:41,265	7655	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:39:41,528	7918	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:41,532	7922	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:39:41,884	8274	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:41,891	8281	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:39:42,112	8502	ftxRestTest	[main]	
+INFO	2022-01-20 17:39:42,114	8504	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:39:42,355	8745	ftxRestTest	[main]	
+INFO	2022-01-20 17:40:59,713	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:40:59,714	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:41:04,830	5117	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:42:44,201	104488	ftxRestTest	[main]	Date=Thu, 20 Jan 2022 09:41:06 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Vary=Accept-Encoding
+Vary=Accept-Encoding
+Cache-Control=public, max-age=0
+ETag=W/"074261b9e13a217a1dcbd7d49c2abe7f"
+Vary=Origin
+Content-Encoding=gzip
+X-Cache-Status=MISS
+CF-Cache-Status=MISS
+Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options=nosniff
+Server=cloudflare
+CF-RAY=6d07585b69cd49ba-SIN
+alt-svc=h3=":443"; ma=86400, h3-29=":443"; ma=86400
+INFO	2022-01-20 17:42:44,258	104545	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:42:50,744	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:42:50,744	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:42:55,313	4569	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:42:57,730	6986	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:42:58,065	7321	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:42:58,406	7662	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:42:58,675	7931	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:42:58,974	8230	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:42:59,230	8486	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:42:59,497	8753	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:42:59,849	9105	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:43:00,151	9407	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:43:49,652	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:43:49,652	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:43:54,183	4531	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:43:56,594	6942	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:43:56,958	7306	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:43:57,538	7886	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:43:57,854	8202	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:43:58,119	8467	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:43:58,457	8805	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:43:58,819	9167	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:43:59,054	9402	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:43:59,323	9671	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-20 17:44:42,073	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-20 17:44:42,076	3	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-20 17:44:46,796	4723	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-20 17:44:49,255	7182	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-20 17:44:49,614	7541	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-20 17:44:49,876	7803	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-20 17:44:50,134	8061	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-20 17:44:50,440	8367	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-20 17:44:50,685	8612	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-20 17:44:50,940	8867	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-20 17:44:51,195	9122	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-20 17:44:51,444	9371	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures

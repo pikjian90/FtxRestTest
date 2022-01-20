@@ -5,6 +5,7 @@ import io.restassured.RestAssured;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
@@ -12,8 +13,7 @@ import testcase.BaseTest;
 
 import java.io.IOException;
 
-public class Testfuture extends BaseTest{
-
+public class TestFuture extends BaseTest{
     @DataProvider(name="testfuturedata")
     public Object[][] getData() throws IOException {
         //read data from excel
@@ -30,17 +30,32 @@ public class Testfuture extends BaseTest{
         return data;
     }
 
-    @Test(dataProvider = "testfuturedata")
+    @Test(dataProvider = "testfuturedata", priority = 1)
     public void testFuture(String name,String underlying, String description){
+        logger.info("Test : [testFuture] " + name + "|" + underlying + "|" + description);
         RequestSpecification httpRequest = RestAssured.given();
         Response res= httpRequest.request(Method.GET, "/futures/" + name);
         convertResponseResultToMap(res);
 
+        int statusCode = res.getStatusCode();
+        String responseBody = res.getBody().toString();
+        long responseTime = res.getTime();
+        String statusLine = res.getStatusLine();
+        String contentType = res.getContentType();
+        String serverType = res.header("Server");
+        String contentEncoding = res.header("Content-Encoding");
+
         SoftAssert softAssert = new SoftAssert();
+        softAssert.assertEquals(statusCode, 200, "Status Code is not expected");
+        softAssert.assertTrue(responseBody!=null, "Response Body is not empty");
+        softAssert.assertTrue(responseTime<2000, "Response time is not more than 2000ms");
+        softAssert.assertEquals(statusLine,"HTTP/1.1 200 OK","Status line is not expected");
+        softAssert.assertEquals(contentType,"application/json","Content Type is not expected");
+        softAssert.assertEquals(serverType,"cloudflare", "Server Type is not expected");
+        softAssert.assertEquals(contentEncoding,"gzip", "Content Encoding is not expected");
+
         softAssert.assertEquals(hm.get("underlying"),underlying,underlying + "is not matched");
         softAssert.assertEquals(hm.get("description"),description,description + "is not matched");
         softAssert.assertAll();
     }
-
-
 }
