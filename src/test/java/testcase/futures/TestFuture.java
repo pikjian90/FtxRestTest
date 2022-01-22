@@ -1,8 +1,11 @@
 package testcase.futures;
 
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.Status;
 import common.util.XLUtils;
 import io.restassured.RestAssured;
 import io.restassured.http.Method;
+import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.BeforeTest;
@@ -32,10 +35,23 @@ public class TestFuture extends BaseTest{
 
     @Test(dataProvider = "testfuturedata", priority = 1)
     public void testFuture(String name,String underlying, String description){
+        ExtentTest extentTest = extentReports.createTest("testFuture","to verify Future API cases");
+
         logger.info("Test : [testFuture] " + name + "|" + underlying + "|" + description);
         RequestSpecification httpRequest = RestAssured.given();
         Response res= httpRequest.request(Method.GET, "/futures/" + name);
         convertResponseResultToMap(res);
+
+        JsonPath jp = res.jsonPath();
+        String resName = jp.get("result.name");
+        String resUnderlying = jp.get("result.underlying");
+        String resDescription = jp.get("result.description");
+        logger.info("Name = " + resName);
+        logger.info("Underlying = " + resUnderlying);
+        logger.info("Description = " + resDescription);
+        extentTest.info("Name = " + resName);
+        extentTest.info("Underlying = " + resUnderlying);
+        extentTest.info("Description = " + resDescription);
 
         int statusCode = res.getStatusCode();
         String responseBody = res.getBody().toString();
@@ -54,8 +70,11 @@ public class TestFuture extends BaseTest{
         softAssert.assertEquals(serverType,"cloudflare", "Server Type is not expected");
         softAssert.assertEquals(contentEncoding,"gzip", "Content Encoding is not expected");
 
-        softAssert.assertEquals(hm.get("underlying"),underlying,underlying + "is not matched");
-        softAssert.assertEquals(hm.get("description"),description,description + "is not matched");
+        softAssert.assertEquals(resName,name,"name is not matched");
+        softAssert.assertEquals(resUnderlying,underlying,underlying + "is not matched");
+        softAssert.assertEquals(resDescription,description,description + "is not matched");
         softAssert.assertAll();
     }
+
+
 }

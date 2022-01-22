@@ -179,3 +179,416 @@ INFO	2022-01-20 17:44:50,685	8612	ftxRestTest	[main]	Test : [testFuture] SOL-PER
 INFO	2022-01-20 17:44:50,940	8867	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
 INFO	2022-01-20 17:44:51,195	9122	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
 INFO	2022-01-20 17:44:51,444	9371	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:28:14,613	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:28:14,614	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:28:19,590	4977	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:28:22,404	7791	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:28:22,742	8129	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 12:28:22,988	8375	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 12:28:23,352	8739	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 12:28:23,632	9019	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 12:28:23,883	9270	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 12:28:24,206	9593	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 12:28:24,456	9843	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 12:28:24,724	10111	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:29:33,440	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:29:33,441	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:29:37,673	4233	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:29:40,195	6755	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:29:41,603	8163	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 12:29:41,866	8426	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 12:29:43,196	9756	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 12:29:43,478	10038	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 12:29:43,775	10335	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 12:29:44,139	10699	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 12:29:44,426	10986	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 12:29:45,752	12312	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:29:46,008	12568	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 12:29:46,012	12572	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 12:38:47,201	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:38:47,202	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:38:51,468	4267	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:38:54,093	6892	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:54,102	6901	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:38:54,468	7267	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:54,470	7269	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 12:38:54,805	7604	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:54,806	7605	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 12:38:56,150	8949	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:56,155	8954	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 12:38:56,522	9321	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:56,523	9322	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 12:38:56,800	9599	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:56,800	9599	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 12:38:57,102	9901	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:57,103	9902	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 12:38:57,594	10393	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:57,596	10395	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 12:38:57,872	10671	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:57,873	10672	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:38:58,149	10948	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:38:58,151	10950	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 12:38:58,159	10958	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 12:40:38,757	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:40:38,758	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:40:42,863	4106	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:40:45,354	6597	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:45,362	6605	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:40:45,693	6936	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:45,694	6937	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 12:40:46,028	7271	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:46,030	7273	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 12:40:46,317	7560	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:46,318	7561	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 12:40:46,574	7817	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:46,575	7818	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 12:40:46,942	8185	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:46,944	8187	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 12:40:47,205	8448	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:47,207	8450	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 12:40:47,471	8714	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:47,472	8715	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 12:40:47,717	8960	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:47,718	8961	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:40:47,977	9220	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:40:47,981	9224	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 12:40:47,986	9229	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 12:41:35,262	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:41:35,263	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:41:39,427	4165	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:45:18,805	223543	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:18,862	223600	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:45:24,543	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:45:24,543	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:45:28,930	4387	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:45:31,443	6900	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:31,476	6933	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:45:31,808	7265	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:31,833	7290	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 12:45:32,170	7627	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:32,242	7699	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 12:45:32,583	8040	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:32,606	8063	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 12:45:32,894	8351	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:32,921	8378	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 12:45:33,182	8639	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:33,207	8664	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 12:45:33,437	8894	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:33,459	8916	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 12:45:33,766	9223	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:33,788	9245	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 12:45:34,051	9508	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:34,072	9529	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:45:34,320	9777	ftxRestTest	[main]	abc = null
+INFO	2022-01-22 12:45:34,333	9790	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 12:45:34,339	9796	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 12:49:33,920	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 12:49:33,921	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 12:49:38,613	4693	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 12:49:41,115	7195	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 12:49:41,116	7196	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 12:49:41,116	7196	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 12:49:41,122	7202	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 12:49:41,478	7558	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 12:49:41,478	7558	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 12:49:41,478	7558	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 12:49:41,481	7561	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 12:49:41,846	7926	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 12:49:41,846	7926	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 12:49:41,846	7926	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 12:49:41,849	7929	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 12:49:42,212	8292	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 12:49:42,212	8292	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 12:49:42,212	8292	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 12:49:42,213	8293	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 12:49:42,585	8665	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 12:49:42,585	8665	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 12:49:42,585	8665	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 12:49:42,586	8666	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 12:49:42,897	8977	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 12:49:42,897	8977	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 12:49:42,897	8977	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 12:49:42,898	8978	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 12:49:43,223	9303	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 12:49:43,224	9304	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 12:49:43,224	9304	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 12:49:43,226	9306	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 12:49:43,629	9709	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 12:49:43,629	9709	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 12:49:43,629	9709	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 12:49:43,631	9711	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 12:49:43,969	10049	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 12:49:43,970	10050	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 12:49:43,970	10050	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 12:49:43,971	10051	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 12:49:44,254	10334	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 12:49:44,255	10335	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 12:49:44,255	10335	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 12:49:44,257	10337	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 12:49:44,260	10340	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 13:59:33,609	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 13:59:33,610	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 13:59:38,076	4467	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 13:59:40,649	7040	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 13:59:40,651	7042	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 13:59:40,651	7042	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 13:59:40,670	7061	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 13:59:41,118	7509	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 13:59:41,118	7509	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 13:59:41,118	7509	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 13:59:41,119	7510	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 13:59:41,495	7886	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 13:59:41,495	7886	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 13:59:41,495	7886	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 13:59:41,497	7888	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 13:59:41,982	8373	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 13:59:41,983	8374	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 13:59:41,983	8374	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 13:59:41,991	8382	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 13:59:42,779	9170	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 13:59:42,779	9170	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 13:59:42,779	9170	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 13:59:42,780	9171	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 13:59:43,070	9461	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 13:59:43,070	9461	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 13:59:43,070	9461	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 13:59:43,071	9462	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 13:59:43,419	9810	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 13:59:43,419	9810	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 13:59:43,419	9810	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 13:59:43,420	9811	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 13:59:43,810	10201	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 13:59:43,810	10201	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 13:59:43,810	10201	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 13:59:43,812	10203	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 13:59:44,066	10457	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 13:59:44,066	10457	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 13:59:44,066	10457	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 13:59:44,067	10458	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 13:59:44,401	10792	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 13:59:44,401	10792	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 13:59:44,401	10792	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 13:59:44,404	10795	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 13:59:44,407	10798	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 14:04:07,040	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 14:04:07,041	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 14:04:12,047	5007	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 14:04:14,629	7589	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 14:04:14,631	7591	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 14:04:14,632	7592	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 14:04:14,654	7614	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 14:04:15,070	8030	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 14:04:15,070	8030	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 14:04:15,070	8030	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 14:04:15,071	8031	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 14:04:15,480	8440	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 14:04:15,480	8440	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 14:04:15,480	8440	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 14:04:15,483	8443	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 14:04:15,810	8770	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 14:04:15,810	8770	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 14:04:15,810	8770	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 14:04:15,813	8773	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 14:04:16,194	9154	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 14:04:16,194	9154	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 14:04:16,194	9154	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 14:04:16,198	9158	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 14:04:16,514	9474	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 14:04:16,514	9474	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 14:04:16,514	9474	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 14:04:16,515	9475	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 14:04:16,877	9837	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 14:04:16,877	9837	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 14:04:16,878	9838	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 14:04:16,879	9839	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 14:04:17,200	10160	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 14:04:17,200	10160	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 14:04:17,200	10160	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 14:04:17,202	10162	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 14:04:17,472	10432	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 14:04:17,472	10432	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 14:04:17,472	10432	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 14:04:17,476	10436	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 14:04:17,822	10782	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 14:04:17,822	10782	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 14:04:17,822	10782	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 14:04:17,830	10790	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 14:04:17,834	10794	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 14:10:07,843	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 14:10:07,844	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 14:10:12,042	4199	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 14:10:14,684	6841	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 14:10:14,685	6842	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 14:10:14,688	6845	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 14:10:14,705	6862	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 14:10:15,144	7301	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 14:10:15,144	7301	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 14:10:15,145	7302	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 14:10:15,147	7304	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 14:10:15,592	7749	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 14:10:15,592	7749	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 14:10:15,592	7749	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 14:10:15,594	7751	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 14:10:15,975	8132	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 14:10:15,976	8133	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 14:10:15,976	8133	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 14:10:15,981	8138	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 14:10:16,370	8527	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 14:10:16,371	8528	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 14:10:16,371	8528	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 14:10:16,373	8530	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 14:10:16,659	8816	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 14:10:16,659	8816	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 14:10:16,659	8816	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 14:10:16,660	8817	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 14:10:17,030	9187	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 14:10:17,031	9188	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 14:10:17,031	9188	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 14:10:17,032	9189	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 14:10:17,362	9519	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 14:10:17,362	9519	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 14:10:17,363	9520	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 14:10:17,364	9521	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 14:10:17,630	9787	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 14:10:17,630	9787	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 14:10:17,630	9787	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 14:10:17,632	9789	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 14:10:17,959	10116	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 14:10:17,959	10116	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 14:10:17,959	10116	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 14:10:17,961	10118	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 14:10:17,964	10121	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 14:19:56,098	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 14:19:56,099	1	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 14:20:00,890	4792	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 14:20:03,449	7351	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 14:20:03,451	7353	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 14:20:03,451	7353	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 14:20:03,477	7379	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 14:20:03,918	7820	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 14:20:03,918	7820	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 14:20:03,918	7820	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 14:20:03,920	7822	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 14:20:04,262	8164	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 14:20:04,262	8164	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 14:20:04,262	8164	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 14:20:04,264	8166	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 14:20:04,621	8523	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 14:20:04,621	8523	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 14:20:04,621	8523	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 14:20:04,623	8525	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 14:20:04,960	8862	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 14:20:04,961	8863	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 14:20:04,961	8863	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 14:20:04,965	8867	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 14:20:05,640	9542	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 14:20:05,641	9543	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 14:20:05,641	9543	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 14:20:05,644	9546	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 14:20:05,968	9870	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 14:20:05,968	9870	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 14:20:05,968	9870	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 14:20:05,969	9871	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 14:20:06,316	10218	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 14:20:06,317	10219	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 14:20:06,317	10219	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 14:20:06,319	10221	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 14:20:06,621	10523	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 14:20:06,621	10523	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 14:20:06,621	10523	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 14:20:06,621	10523	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 14:20:07,536	11438	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 14:20:07,536	11438	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 14:20:07,536	11438	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 14:20:07,540	11442	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 14:20:07,544	11446	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 14:59:30,234	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 14:59:30,236	2	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 14:59:34,952	4718	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 14:59:37,500	7266	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 14:59:37,502	7268	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 14:59:37,502	7268	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 14:59:37,515	7281	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 14:59:37,953	7719	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 14:59:37,953	7719	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 14:59:37,953	7719	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 14:59:37,955	7721	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 14:59:38,323	8089	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 14:59:38,323	8089	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 14:59:38,323	8089	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 14:59:38,325	8091	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 14:59:38,729	8495	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 14:59:38,730	8496	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 14:59:38,730	8496	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 14:59:38,733	8499	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 14:59:39,073	8839	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 14:59:39,074	8840	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 14:59:39,074	8840	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 14:59:39,075	8841	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 14:59:39,369	9135	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 14:59:39,369	9135	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 14:59:39,369	9135	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 14:59:39,371	9137	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 14:59:39,745	9511	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 14:59:39,745	9511	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 14:59:39,745	9511	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 14:59:39,747	9513	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 14:59:40,051	9817	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 14:59:40,051	9817	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 14:59:40,051	9817	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 14:59:40,055	9821	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 14:59:40,324	10090	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 14:59:40,325	10091	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 14:59:40,325	10091	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 14:59:40,326	10092	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 14:59:40,623	10389	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 14:59:40,623	10389	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 14:59:40,623	10389	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 14:59:40,625	10391	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 14:59:40,628	10394	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 14:59:40,630	10396	ftxRestTest	[main]	AfterClass - tearDownSuite
+INFO	2022-01-22 15:09:02,303	0	ftxRestTest	[main]	BeforeSuite : setup Endpoint https://ftx.com/api
+INFO	2022-01-22 15:09:02,303	0	ftxRestTest	[main]	BeforeSuite : setup log4j
+INFO	2022-01-22 15:09:06,980	4677	ftxRestTest	[main]	Test : [testFuture] BTC-PERP|BTC|Bitcoin Perpetual Futures
+INFO	2022-01-22 15:09:09,540	7237	ftxRestTest	[main]	Name = BTC-PERP
+INFO	2022-01-22 15:09:09,542	7239	ftxRestTest	[main]	Underlying = BTC
+INFO	2022-01-22 15:09:09,542	7239	ftxRestTest	[main]	Description = Bitcoin Perpetual Futures
+INFO	2022-01-22 15:09:09,555	7252	ftxRestTest	[main]	Test : [testFuture] ETH-PERP|ETH|Ethereum Perpetual Futures
+INFO	2022-01-22 15:09:10,199	7896	ftxRestTest	[main]	Name = ETH-PERP
+INFO	2022-01-22 15:09:10,200	7897	ftxRestTest	[main]	Underlying = ETH
+INFO	2022-01-22 15:09:10,200	7897	ftxRestTest	[main]	Description = Ethereum Perpetual Futures
+INFO	2022-01-22 15:09:10,204	7901	ftxRestTest	[main]	Test : [testFuture] ADA-PERP|ADA|Cardano Perpetual Futures
+INFO	2022-01-22 15:09:10,536	8233	ftxRestTest	[main]	Name = ADA-PERP
+INFO	2022-01-22 15:09:10,536	8233	ftxRestTest	[main]	Underlying = ADA
+INFO	2022-01-22 15:09:10,536	8233	ftxRestTest	[main]	Description = Cardano Perpetual Futures
+INFO	2022-01-22 15:09:10,537	8234	ftxRestTest	[main]	Test : [testFuture] FTM-PERP|FTM|Fantom Perpetual Futures
+INFO	2022-01-22 15:09:10,856	8553	ftxRestTest	[main]	Name = FTM-PERP
+INFO	2022-01-22 15:09:10,857	8554	ftxRestTest	[main]	Underlying = FTM
+INFO	2022-01-22 15:09:10,857	8554	ftxRestTest	[main]	Description = Fantom Perpetual Futures
+INFO	2022-01-22 15:09:10,857	8554	ftxRestTest	[main]	Test : [testFuture] DOT-PERP|DOT|Polkadot Perpetual Futures
+INFO	2022-01-22 15:09:11,194	8891	ftxRestTest	[main]	Name = DOT-PERP
+INFO	2022-01-22 15:09:11,194	8891	ftxRestTest	[main]	Underlying = DOT
+INFO	2022-01-22 15:09:11,194	8891	ftxRestTest	[main]	Description = Polkadot Perpetual Futures
+INFO	2022-01-22 15:09:11,197	8894	ftxRestTest	[main]	Test : [testFuture] DOGE-PERP|DOGE|Dogecoin Perpetual Futures
+INFO	2022-01-22 15:09:11,538	9235	ftxRestTest	[main]	Name = DOGE-PERP
+INFO	2022-01-22 15:09:11,538	9235	ftxRestTest	[main]	Underlying = DOGE
+INFO	2022-01-22 15:09:11,538	9235	ftxRestTest	[main]	Description = Dogecoin Perpetual Futures
+INFO	2022-01-22 15:09:11,539	9236	ftxRestTest	[main]	Test : [testFuture] SOL-PERP|SOL|Solana Perpetual Futures
+INFO	2022-01-22 15:09:11,841	9538	ftxRestTest	[main]	Name = SOL-PERP
+INFO	2022-01-22 15:09:11,842	9539	ftxRestTest	[main]	Underlying = SOL
+INFO	2022-01-22 15:09:11,842	9539	ftxRestTest	[main]	Description = Solana Perpetual Futures
+INFO	2022-01-22 15:09:11,843	9540	ftxRestTest	[main]	Test : [testFuture] LINK-PERP|LINK|Chainlink Perpetual Futures
+INFO	2022-01-22 15:09:12,276	9973	ftxRestTest	[main]	Name = LINK-PERP
+INFO	2022-01-22 15:09:12,276	9973	ftxRestTest	[main]	Underlying = LINK
+INFO	2022-01-22 15:09:12,276	9973	ftxRestTest	[main]	Description = Chainlink Perpetual Futures
+INFO	2022-01-22 15:09:12,278	9975	ftxRestTest	[main]	Test : [testFuture] BNB-PERP|BNB|BNB Perpetual Futures
+INFO	2022-01-22 15:09:12,543	10240	ftxRestTest	[main]	Name = BNB-PERP
+INFO	2022-01-22 15:09:12,544	10241	ftxRestTest	[main]	Underlying = BNB
+INFO	2022-01-22 15:09:12,544	10241	ftxRestTest	[main]	Description = BNB Perpetual Futures
+INFO	2022-01-22 15:09:12,544	10241	ftxRestTest	[main]	Test : [testFuture] SAND-PERP|SAND|SAND Perpetual Futures
+INFO	2022-01-22 15:09:12,807	10504	ftxRestTest	[main]	Name = SAND-PERP
+INFO	2022-01-22 15:09:12,807	10504	ftxRestTest	[main]	Underlying = SAND
+INFO	2022-01-22 15:09:12,807	10504	ftxRestTest	[main]	Description = SAND Perpetual Futures
+INFO	2022-01-22 15:09:12,809	10506	ftxRestTest	[main]	AfterClass - tearDown
+INFO	2022-01-22 15:09:12,815	10512	ftxRestTest	[main]	AfterTest - afterTest
+INFO	2022-01-22 15:09:12,817	10514	ftxRestTest	[main]	AfterClass - tearDownSuite
