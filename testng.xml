@@ -2,14 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="FtxRestTest Suite">
-<!--<listeners>-->
-<!--    <listener class-name = "common.util.Listeners"/>-->
-<!--</listeners>-->
     <test name="FtxRestTest Test">
         <classes>
             <class name="testcase.futures.TestFuture"/>
         </classes>
-
     </test>
-
 </suite>

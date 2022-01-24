@@ -1,0 +1,11 @@
+testcase/futures/TestFuture.class
+common/util/XLUtils.class
+testcase/markets/TestHistoricalPrices.class
+testcase/BaseTest.class
+testcase/orders/TestPlaceOrder.class
+common/EndPoints.class
+common/util/Listeners.class
+testcase/markets/TestTrades.class
+testcase/markets/TestSingleMarket.class
+testcase/markets/TestMarketsHeader.class
+testcase/leveragetokens/TestTokenInfo.class
